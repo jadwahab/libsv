@@ -41,7 +41,7 @@ import (
 	"encoding/hex"
 	"log"
 
-	"github.com/libsv/libsv/transaction/output"
+	"github.com/libsv/libsv/bt/output"
 	"github.com/libsv/libsv/utils"
 )
 
