@@ -3,6 +3,7 @@ bitbucket.org/simon_ordish/cryptolib v1.0.39/go.mod h1:7tkcAeq4Wg7wwJ/uN4kaGRPE6
 github.com/aead/siphash v1.0.1/go.mod h1:Nywa3cDsYNNK3gaciGTWPwHt0wlpNV15vwmswBAUSII=
 github.com/bitcoin-sv/merchantapi-reference v1.1.0 h1:H8vUBMjzdm6eAJI+1bk7CA2DXwTlAkyJjFdy8i5gZXU=
 github.com/bitcoin-sv/merchantapi-reference v1.1.0/go.mod h1:unZHsjGH7ChT0p5b5BSEBfZeo4E+eU+plMul2zYInJU=
+github.com/bitcoin-sv/merchantapi-reference v1.2.0/go.mod h1:sVzgZ0yq71SDaeVsT7XUS9nL8TOhBcI5RyzzgXPXiLU=
 github.com/bitcoinsv/bsvd v0.0.0-20190609155523-4c29707f7173 h1:2yTIV9u7H0BhRDGXH5xrAwAz7XibWJtX2dNezMeNsUo=
 github.com/bitcoinsv/bsvd v0.0.0-20190609155523-4c29707f7173/go.mod h1:BZ1UcC9+tmcDEcdVXgpt13hMczwJxWzpAn68wNs7zRA=
 github.com/bitcoinsv/bsvutil v0.0.0-20181216182056-1d77cf353ea9 h1:hFI8rT84FCA0FFy3cFrkW5Nz4FyNKlIdCvEvvTNySKg=
